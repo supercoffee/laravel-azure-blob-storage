@@ -1,0 +1,19 @@
+{
+    "name": "supercoffee/azure-blob-storage",
+    "description": "",
+    "authors": [
+        {
+            "name": "Benjamin Daschel",
+            "email": "coffeemaxed@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Supercoffee\\AzureBlobStorage": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
